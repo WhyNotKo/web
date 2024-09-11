@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\",
+  "WorkspaceRootPath": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\migrations\\20240910194804_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\migrations\\20240910194804_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\migrations\\20240910194804_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\migrations\\20240910194804_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\79277\\desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\mvcmovie\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|c:\\users\\aerty\\onedrive\\desktop\\reps\\web\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{549BB74B-876B-4503-BDE6-0C578258E4E3}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240910194804_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
-              "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
-              "RelativeToolTip": "MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:48:04.287Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20240910194804_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
+              "RelativeToolTip": "MvcMovie\\Migrations\\20240910194804_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T19:44:30.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T19:48:04.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:44:30.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
               "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -93,41 +95,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T09:37:50.385Z"
+              "WhenOpened": "2024-09-09T09:37:50.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T09:31:13.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T09:31:13.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\aerty\\OneDrive\\Desktop\\reps\\web\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\79277\\Desktop\\ucheba\\7 \u0441\u0435\u043C\u0430\u043A\\web\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "MvcMovie\\Controllers\\HelloWorldController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T09:12:35.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T09:12:35.357Z"
             }
           ]
         }
